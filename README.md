@@ -1,6 +1,6 @@
 ### Hello World 👋 ,
 
-<img height="450em" width="100%" align="center" alt="Joyfully_spinngin" src="https://github.com/MahabubArafat/MahabubArafat/blob/main/Images/coding.gif"/>
+<p align="center"><img height="450em" width="50%" align="center" alt="Joyfully_spinngin" src="https://github.com/MahabubArafat/MahabubArafat/blob/main/Images/coding.gif"/></p>
 
 #### I am Mahabub Arafat. Mechanical Engineer by Degree and Backend Engineer by Choice. Well , Here I am pursuing my passion.
 ---
@@ -12,7 +12,7 @@
 - 📫 How to reach me:&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-mahabubalamarafat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahabubalamarafat)
 - 😄 If you have something interesting idea to create something, don't hesitate to contact me.
 - ⚡ Fun fact: I am fast learner as well as a good code theif. I steal other people's code everyday.
-<img height="300em" align="center" alt="Techs" src="https://github.com/MahabubArafat/MahabubArafat/blob/main/Images/coding2.jpg"/>
+<p align="center"><img height="300em" alt="Techs" src="https://github.com/MahabubArafat/MahabubArafat/blob/main/Images/coding2.jpg"/></p>
 <br>
 
 ---
