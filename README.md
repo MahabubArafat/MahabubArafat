@@ -12,7 +12,7 @@
 - 📫 How to reach me:&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-mahabubalamarafat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahabubalamarafat)
 - 😄 If you have something interesting idea to create something, don't hesitate to contact me.
 - ⚡ Fun fact: I am fast learner as well as a good code theif. I steal other people's code everyday.
-<p align="center"><img height="300em" alt="Techs" src="https://github.com/MahabubArafat/MahabubArafat/blob/main/Images/coding2.jpg"/></p>
+<p align="center"><img height="300em" width="60%" alt="Techs" src="https://github.com/MahabubArafat/MahabubArafat/blob/main/Images/coding2.jpg"/></p>
 <br>
 
 ---
@@ -49,6 +49,7 @@
 <div align="center">
   <img height="180em" style="float:left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahabubarafat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+<br>
 <div align="center">
     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mahabubarafat&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
 </div>
