@@ -44,7 +44,7 @@
 ---
 
 ### 🗠 Overall GitHub Analytics:
-<div align="center"> https://gpvc.arturio.dev/mahabubarafat</div>
+<div align="center"> ![Profile views](https://gpvc.arturio.dev/mahabubarafat)</div>
 
 <div align="center">
   <img height="180em" style="float:left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahabubarafat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
