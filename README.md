@@ -1,6 +1,6 @@
 ### Hello World 👋 ,
 
-<img height="300em" width="100%" align="center" alt="Joyfully_spinngin" src="https://github.com/MahabubArafat/MahabubArafat/blob/main/Images/coding.gif"/>
+<img height="400em" width="100%" align="center" alt="Joyfully_spinngin" src="https://github.com/MahabubArafat/MahabubArafat/blob/main/Images/coding.gif"/>
 
 #### I am Mahabub Arafat. Mechanical Engineer by Degree and Backend Engineer by Choice. Well , Here I am pursuing my passion.
 ---
