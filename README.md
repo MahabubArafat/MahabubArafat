@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hello World 👋
 
+#### I am Mahabub Arafat. Mechanical Engineer by Degree and Backend Engineer by Choice. Well , Here I am pursuing my passion.
+---
 
 <!--
-**MahabubArafat/MahabubArafat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -35,14 +34,14 @@ Here are some ideas to get you started:
 </p>
 
 ---
-### 🛠 &nbsp;Language Stats:
+### 🗠 &nbsp;Language Stats:
 <div align="center">
   <img height="180em" style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubarafat&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
 ---
 
-### 🗠 GitHub Analytics
+### 🗠 Overall GitHub Analytics:
 <div align="center">
   <img height="180em" style="float:left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahabubarafat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
