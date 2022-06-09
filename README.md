@@ -1,6 +1,6 @@
 ### Hello World 👋 ,
 
-<p align="center"><img height="450em" width="50%" align="center" alt="Joyfully_spinngin" src="https://github.com/MahabubArafat/MahabubArafat/blob/main/Images/coding.gif"/></p>
+<p align="center"><img height="300em" width="60%" align="center" alt="Joyfully_spinngin" src="https://github.com/MahabubArafat/MahabubArafat/blob/main/Images/coding.gif"/></p>
 
 #### I am Mahabub Arafat. Mechanical Engineer by Degree and Backend Engineer by Choice. Well , Here I am pursuing my passion.
 ---
@@ -44,6 +44,8 @@
 ---
 
 ### 🗠 Overall GitHub Analytics:
+<div align="center"> ![Profile views](https://gpvc.arturio.dev/mahabubarafat) </div>
+
 <div align="center">
   <img height="180em" style="float:left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahabubarafat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
