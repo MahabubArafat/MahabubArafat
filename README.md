@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ---
 ### 🛠 &nbsp;Language Stats:
 <div align="center">
-  <img height="180em" style="float:left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahabubarafat&layout=compact&langs_count=8&theme=tokyonight&hide=html,css,jupyter%20notebook"/>
+  <img height="180em" style="float:left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahabubarafat&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
 ---
