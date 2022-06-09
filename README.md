@@ -1,21 +1,21 @@
 ### Hello World 👋 ,
 
-<img height="400em" width="100%" align="center" alt="Joyfully_spinngin" src="https://github.com/MahabubArafat/MahabubArafat/blob/main/Images/coding.gif"/>
+<img height="450em" width="100%" align="center" alt="Joyfully_spinngin" src="https://github.com/MahabubArafat/MahabubArafat/blob/main/Images/coding.gif"/>
 
 #### I am Mahabub Arafat. Mechanical Engineer by Degree and Backend Engineer by Choice. Well , Here I am pursuing my passion.
 ---
+<div>
+- 🔭 I’m currently working as a Software Engineer and contributing to Frontend , Backend and DevOps Techs.
+- 🌱 I’m currently learning Machine Learning and Artificial Intelligence.
+- 👯 I’m looking to collaborate on any project that might invoke my interest.
+- 💬 Lets talk about Blockchain and NFTs.
+- 📫 How to reach me:&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-mahabubalamarafat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahabubalamarafat)
+- 😄 If you have something interesting idea to create something, don't hesitate to contact me.
+- ⚡ Fun fact: I am fast learner as well as a good code theif. I steal other people's code everyday.
+<img height="450em" width="100%" align="right" alt="Joyfully_spinngin" src="https://github.com/MahabubArafat/MahabubArafat/blob/main/Images/codin2.jpg"/>
 
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+---
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
